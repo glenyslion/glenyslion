@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### :woman_technologist: About Me :
-I am a Data Scientist from Indonesia.
+I am a Data Scientist from Indonesia, currently living in the USA.
 
 - 📚 Master’s student at Northwestern University, majoring in Machine Learning and Data Science.
 
