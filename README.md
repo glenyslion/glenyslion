@@ -15,6 +15,7 @@ I am a Data Scientist from Indonesia, currently living in the USA.
 
 ### 🎓 Projects:
 - <a href = "https://github.com/glenyslion/ERG3020-Predictive-Analysis-on-CS-GO-Professional-Matches-by-Massey-and-Elo-Ranking-Method"> Predictive Analysis on CS-GO Professional Matches by Massey and Elo Ranking Method </a>
+- <a href = "https://github.com/glenyslion/water-potability-classification"> Water Potability Classification </a>
 - <a href = "https://github.com/glenyslion/Red-wine-quality-classification"> Red Wine Quality Classification </a>
 
 ---
