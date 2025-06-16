@@ -14,6 +14,7 @@ I am a Data Scientist from Indonesia, currently living in the USA.
 ---
 
 ### 🎓 Projects:
+- <a href = "https://github.com/glenyslion/Speech-to-Text-Analysis"> Speech to Text Analysis with Summarization  </a>
 - <a href = "https://github.com/glenyslion/restaurant-recommender-and-segmentation"> Restaurant Recommendation System and Customer Segmentation </a>
 - <a href = "https://github.com/glenyslion/pets-facial-expression-classifier-and-style-transfer"> Pets Facial Expression Classification and Style Transfer </a>
 - <a href = "https://github.com/glenyslion/airlines_delay_prediction"> Airlines Delay Prediction </a>
