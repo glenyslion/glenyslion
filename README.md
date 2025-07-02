@@ -11,7 +11,7 @@ I am a Data Scientist from Indonesia, currently living in the USA.
 
 - Graduated from The Chinese University of Hong Kong, Shenzhen, with a major in Statistics and a focus on Data Science.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/glenys-charity-lion/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/glenys-charity-lion/)
 
 ---
 
